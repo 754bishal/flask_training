@@ -1,1 +1,3 @@
-html is not a LANGUAGE
+
+Day 3
+Coupled and decoupled: Coupling(back end and front end in same code or file, like python)  Decoupling(back end and front end in defferent code or file, like react, node.js) 

@@ -67,3 +67,4 @@ WHERE department_name = 'Chemistry';
 SELECT * FROM departments;
 
 DROP TABLE emrollments;
+
