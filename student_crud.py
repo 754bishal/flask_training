@@ -131,4 +131,8 @@ def update_courses(teacher_id ,course_id):
     print("Values inserted in table courses")
 
 if __name__=="__main__":
+<<<<<<< HEAD
    update_courses(102, 502)
+=======
+   update_courses(102, 502)
+>>>>>>> fbbfb65 (1commit)
